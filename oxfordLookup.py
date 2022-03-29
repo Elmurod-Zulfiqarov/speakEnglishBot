@@ -1,8 +1,8 @@
 import requests
 # from pprint import pprint as print
 
-app_id = "736b796d"
-app_key = "e686fc804d1d2e8cab5f88bb46f98c32"
+app_id = "app_id"
+app_key = "app_key"
 language = "en-gb"
 # word_id = "earth"
 

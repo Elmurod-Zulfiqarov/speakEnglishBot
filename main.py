@@ -4,7 +4,7 @@ from googletrans import Translator
 from oxfordLookup import getDefinitions
 translator = Translator()
 
-API_TOKEN = '5203942448:AAFjl59XFMnIX4IECXgxS74Unoawr8JDchw'
+API_TOKEN = 'Your Bot Token'
 
 logging.basicConfig(level=logging.INFO)
 
